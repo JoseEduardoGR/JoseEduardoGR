@@ -3,7 +3,7 @@
 
 Soy **José Eduardo González Rosales**, programador con experiencia profesional en **Python**, **Dart**, **SQL Server**, **APIs** y **Node.js**.
 Dirijo **GR Code**, donde desarrollo soluciones a medida para empresas que necesitan software real, no plantillas recicladas.
-Actualmente estudio **Ingeniería Mecatrónica**.
+Actualmente estudio **Ingeniería Mecatrónica**. 
 
 ---
 
