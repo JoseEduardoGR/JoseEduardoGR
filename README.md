@@ -62,6 +62,7 @@ Actualmente estudio **Ingeniería Mecatrónica**.
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseEduardoGR&show_icons=true&theme=github_dark">
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseEduardoGR&layout=compact&theme=github_dark">
 </p>
+
 ---
 
 ## 📈 Gráfico de actividad
