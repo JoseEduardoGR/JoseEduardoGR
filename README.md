@@ -56,6 +56,22 @@ Actualmente estudio **Ingeniería Mecatrónica**.
 
 ---
 
+## 📦 Paquetes en PyPI
+
+<p align="left">
+  <a href="https://pypi.org/project/grmenu/">
+    <img src="https://img.shields.io/pypi/v/grmenu?label=grmenu&color=blue&style=for-the-badge&logo=pypi&logoColor=white">
+  </a>
+  <a href="https://pypi.org/project/grnexus/">
+    <img src="https://img.shields.io/pypi/v/grnexus?label=grnexus&color=blue&style=for-the-badge&logo=pypi&logoColor=white">
+  </a>
+</p>
+
+* **[grmenu](https://pypi.org/project/grmenu/)** — Menú de navegación por teclado para terminal en modo TTY crudo (flechas + Enter), sin dependencias externas.
+* **[grnexus](https://pypi.org/project/grnexus/)** — Librería de redes neuronales de alto rendimiento con API estilo Keras.
+
+---
+
 ## 📊 Github Stats
 
 <p align="center">
@@ -85,4 +101,3 @@ Solo soluciones reales que funcionan en producción.
 ## 📩 Contacto
 
 **GR Code** — Desarrollo a medida para empresas que quieren resultados, no excusas.
-
